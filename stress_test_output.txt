@@ -1,0 +1,58 @@
+---
+Post: I think the Lakers' recent winning streak is largely due to LeBron's increased assists per game, which has opened up their offense. He's averaging 8.5 assists per game over the last 10 games, compared to 6.2 for the season. However, I still think they're overhyped and won't make it past the second round.
+Boundary: analysis / hot_take
+Why ambiguous: This post provides specific, verifiable evidence (LeBron's assists per game) to support an argument, which aligns with the analysis label. However, the conclusion that the Lakers are "overhyped" and won't make it past the second round is stated with minimal supporting evidence, which is characteristic of a hot take.
+---
+
+---
+Post: The Bucks' defensive strategy is really impressive, they're using a combination of man-to-man and zone defense to shut down opponents. I mean, they held the Warriors to just 90 points last night, and that's a testament to their coaching staff. But let's be real, they're the best team in the league right now and everyone else is just trying to keep up.
+Boundary: analysis / hot_take
+Why ambiguous: This post provides some specific, verifiable evidence (the Bucks' defensive performance against the Warriors) to support an argument, which aligns with the analysis label. However, the statement that the Bucks are the "best team in the league right now" is a bold, confident opinion that may not be entirely supported by evidence, which is characteristic of a hot take.
+---
+
+---
+Post: I've been watching the Clippers' games, and I think Kawhi's shooting percentage is being hurt by the team's poor spacing. He's having to take a lot of tough shots, and it's affecting his overall efficiency. But at the same time, I think he's still the best player in the league, and if anyone can carry a team to the Finals, it's him.
+Boundary: analysis / hot_take
+Why ambiguous: This post provides some specific, verifiable evidence (Kawhi's shooting percentage and the team's spacing) to support an argument, which aligns with the analysis label. However, the conclusion that Kawhi is the "best player in the league" is a subjective opinion that may not be entirely supported by evidence, and the statement that he can "carry a team to the Finals" is a bold claim, which is characteristic of a hot take.
+---
+
+---
+Post: The Nuggets' bench has been on fire lately, outscoring their opponents' bench by an average of 15 points per game over the last 5 games. I think this is because they've found a good rhythm with their second unit, and it's allowing them to rest their starters and stay fresh for the playoffs. But let's not forget, they still have a long way to go before they can be considered a real championship contender.
+Boundary: analysis / hot_take
+Why ambiguous: This post provides specific, verifiable evidence (the Nuggets' bench scoring) to support an argument, which aligns with the analysis label. However, the conclusion that the Nuggets "still have a long way to go" before being considered a championship contender is a subjective opinion that may not be entirely supported by evidence, and the tone is somewhat dismissive, which is characteristic of a hot take.
+---
+
+---
+Post: OMG, what a game! The Raptors just came back from a 20-point deficit to win in overtime! I'm still in shock, this is an all-time great performance by Siakam. He's the real MVP.
+Boundary: reaction / analysis
+Why ambiguous: This post is an immediate emotional response to a specific event (the Raptors' comeback win), which aligns with the reaction label. However, the statement that Siakam is the "real MVP" implies some level of analysis or evaluation of his performance, which is characteristic of the analysis label.
+---
+
+---
+Post: I'm still trying to process what just happened in the Cavs game. They were up by 10 with 2 minutes left, and then they just collapsed. I think it's because they didn't have a good plan for the last few minutes, and it cost them the game. They need to work on their closing strategy.
+Boundary: reaction / analysis
+Why ambiguous: This post is an immediate emotional response to a specific event (the Cavs' collapse), which aligns with the reaction label. However, the statement that the Cavs "didn't have a good plan" and need to work on their "closing strategy" implies some level of analysis or evaluation of their performance, which is characteristic of the analysis label.
+---
+
+---
+Post: What a terrible call by the refs! The Lakers got robbed of a win because of that bogus foul call. I mean, I've seen the replay like 5 times, and there's no way that was a foul. The Lakers were playing great defense, and they deserved to win.
+Boundary: reaction / analysis
+Why ambiguous: This post is an immediate emotional response to a specific event (the foul call), which aligns with the reaction label. However, the statement that the Lakers were "playing great defense" and "deserved to win" implies some level of analysis or evaluation of their performance, which is characteristic of the analysis label.
+---
+
+---
+Post: I'm so hyped after that win! The 76ers are on fire, and I think they can make a deep run in the playoffs. I mean, they've got a great roster, and Embiid is unstoppable. They just need to keep playing like this, and they'll be unstoppable.
+Boundary: reaction / hot_take
+Why ambiguous: This post is an immediate emotional response to a specific event (the 76ers' win), which aligns with the reaction label. However, the statement that the 76ers can "make a deep run" and are "unstoppable" is a bold, confident opinion that may not be entirely supported by evidence, which is characteristic of a hot take.
+---
+
+---
+Post: Are you kidding me?! The Thunder just blew a 15-point lead in the 4th quarter. I think it's because they didn't have a good strategy for closing out the game, and it cost them. They need to work on their execution, and they'll be fine.
+Boundary: reaction / hot_take
+Why ambiguous: This post is an immediate emotional response to a specific event (the Thunder's collapse), which aligns with the reaction label. However, the statement that the Thunder "didn't have a good strategy" and need to work on their "execution" implies some level of analysis, but the tone is also bold and confident, which is characteristic of a hot take.
+---
+
+---
+Post: Wow, what a performance by Luka! He's carrying the Mavs to the playoffs, and I think they've got a real shot at making some noise. I mean, they've got a tough schedule ahead, but if anyone can do it, it's Luka.
+Boundary: reaction / hot_take
+Why ambiguous: This post is an immediate emotional response to a specific event (Luka's performance), which aligns with the reaction label. However, the statement that the Mavs have a "real shot" at making some noise in the playoffs is a bold, confident opinion that may not be
